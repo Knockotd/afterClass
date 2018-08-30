@@ -9,7 +9,7 @@ int y = 0;
 System.out.println(y);
 int result = x/y;
 System.out.println(result);
-
+ 
 String str = null;
 System.out.println(str.trim());
 	}

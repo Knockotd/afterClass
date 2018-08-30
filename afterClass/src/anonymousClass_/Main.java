@@ -12,7 +12,7 @@ public class Main {
 		
 		//클래스를 만들지 않고 상속받아서 사용하기
 		Temp t = new Temp() {
-
+ 
 			@Override
 			public void disp() {
 				System.out.println("관리자");

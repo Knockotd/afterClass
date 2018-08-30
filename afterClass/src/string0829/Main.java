@@ -12,7 +12,7 @@ public class Main {
 		for(int i=0; i<msg.length(); i++) {
 			char ch = msg.charAt(i);
 			//대문자의 경우
-			if(ch>='A' && ch <= 'Z') {
+			if(ch>='A' && ch <= 'Z') { 
 				//산술연산은 최소 단위는 int이므로 char에 대입할려면 형변환을 해야 합니다.
 				ch = (char)(ch+32);
 			}

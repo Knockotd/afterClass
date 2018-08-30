@@ -45,7 +45,7 @@ public class Main {
 		if(aa != -1) {
 			cnt = cnt+1;
 		}
-		aa=0;
+		aa=0; 
 	}
 	//변경된 msg 값 초기화
 	msg = "dksdjxkdsldkscxdskx";

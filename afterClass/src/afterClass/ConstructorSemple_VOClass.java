@@ -13,7 +13,7 @@ public class ConstructorSemple_VOClass {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getAge() {
+	public int getAge() { 
 		return age;
 	}
 	public void setAge(int age) {

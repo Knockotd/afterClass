@@ -13,7 +13,7 @@ public class Main {
 		System.out.println(gAndsData.getPhoneNum());
 		
 		
-		System.out.println(gAndsData);
+		System.out.println(gAndsData); 
 		
 		String name = "꼬부기";
 		int age = 1000;

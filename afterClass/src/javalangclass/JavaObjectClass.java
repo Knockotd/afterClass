@@ -9,7 +9,7 @@ public class JavaObjectClass {
 		System.out.println(obj);
 
 		//대문자로 변경
-
+ 
 		//obj.toUpperCase(); --> 안 됨.
 
 		//출력이 아니라 다른 용도로 사용할 때는 반드시 형변환 해서 사용
